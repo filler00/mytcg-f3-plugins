@@ -1,4 +1,4 @@
-# MyTCG-f3 Plugin Registry.
+# MyTCG-f3 Plugin Registry
 The MyTCG-f3 plugin registry is a convenient directory of MyTCG-f3 plugins that are hosted on GitHub. This gets pulled directly into the MyTCG-f3 plugin admin panel to help users conveniently find and install plugins in a few clicks.
 
 ## Get Listed
