@@ -2,7 +2,7 @@
   "plugins" : [
   
   
-    "filler00/guessthecard": {
+    "filler00/mytcg-f3-guessthecard" : {
       "name": "Guess the Card",
       "author": "Filler00",
       "authorUrl": "https://filler00.com",
@@ -10,7 +10,7 @@
       "supportUrl": ""
     },
     
-    "filler00/news": {
+    "filler00/mytcg-f3-news" : {
       "name": "News",
       "author": "Filler00",
       "authorUrl": "https://filler00.com",
