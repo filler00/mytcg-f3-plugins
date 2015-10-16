@@ -1,21 +1,21 @@
 {
-  'plugins' : [
+  "plugins" : [
   
   
-    'filler00/guessthecard': {
-      'name': "Guess the Card",
-      'author': "Filler00",
-      'authorUrl': "https://filler00.com",
-      'description': "A simple Guess the Card game.",
-      'supportUrl': ""
+    "filler00/guessthecard": {
+      "name": "Guess the Card",
+      "author": "Filler00",
+      "authorUrl": "https://filler00.com",
+      "description": "A simple Guess the Card game.",
+      "supportUrl": ""
     },
     
-    'filler00/news': {
-      'name': "News",
-      'author': "Filler00",
-      'authorUrl': "https://filler00.com",
-      'description': "A simple news and comments management system with Markdown and Twemoji support.",
-      'supportUrl': ""
+    "filler00/news": {
+      "name": "News",
+      "author": "Filler00",
+      "authorUrl": "https://filler00.com",
+      "description": "A simple news and comments management system with Markdown and Twemoji support.",
+      "supportUrl": ""
     },
 
 
