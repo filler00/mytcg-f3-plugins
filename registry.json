@@ -1,7 +1,6 @@
 {
-  "plugins" : [
-  
-  
+
+
     "filler00/mytcg-f3-guessthecard" : {
       "name": "Guess the Card",
       "author": "Filler00",
@@ -19,5 +18,4 @@
     },
 
 
-  ]
 }
